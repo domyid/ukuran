@@ -1,4 +1,4 @@
-# ukuran
+# Parameter pengukuran kinerja sobat domyikado
 
 Domikado berfungsi untuk melakukan monitoring harian pekerjaan setiap individu yang ada dalam tim berbasiskan poin. 
 Cara memantau pekerjaan dibagi menjadi dua bagian:
