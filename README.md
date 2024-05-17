@@ -28,4 +28,9 @@ Dengan ketentuan:
 3. Sehingga jumlah commit adalah, jumlah langkah yang dilakukan untuk menyelesaikan satu buah task
 4. Kode unik task sebaiknya mudah diingat dan berisi info modul dan info lainnya yang informatif
 5. Jika task sudah selesai maka tambahkan tanda pagar plus kodeuniktask pada bagian detail, maka task otomatik done. Contoh: MOD87INT||sudah selesai modul presensi#MOD87INT
-6. 
+
+## Task non commit
+Beberapa task yang tidak bisa dikukur dengan commit maka diinputkan:
+1. Layanan konsumen
+2. Pekerjaan membuat konten
+3. Pekerjaan lapangan
