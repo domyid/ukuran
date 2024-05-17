@@ -34,3 +34,4 @@ Beberapa task yang tidak bisa dikukur dengan commit maka diinputkan:
 1. Layanan konsumen
 2. Pekerjaan membuat konten
 3. Pekerjaan lapangan
+4. Pekerjaan administratif
