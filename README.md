@@ -4,7 +4,7 @@ Domikado berfungsi untuk melakukan monitoring harian pekerjaan setiap individu y
 Cara memantau pekerjaan dibagi menjadi dua bagian:
 1. Menggunakan webhook push, maka akan terekap semua pesan commit yang muncul.
 2. Menggunakan kepuasan berbasiskan user yang bisa di beri rating.
-3. Sepakati dahulu dalam satu hari, satu orang bisa menyelesaikan berapa poin? Misal sehari: 7 poin untuk mode gabut, 14 poin untuk mode sprint.
+3. Sepakati dahulu dalam satu hari, setiap anggota tim bisa menyelesaikan berapa poin? Contoh: Untuk junior entry level: 7-14 poin, untuk senior level:15-30 poin, level dewa:31-60 poin.
 4. Buat dahulu format standar kode unik task, dimana setiap segmen kode memiliki arti.
 
 ## Kamus bahasa gaul
