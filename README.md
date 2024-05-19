@@ -9,7 +9,7 @@ Cara memantau pekerjaan dibagi menjadi dua bagian:
 
 ## Yang bisa di commit untuk di ukur
 1. Proses belajar: membuat tutorial di markdown file di repo, sehingga berkontribusi membuat tutorial untuk yang lainnya
-2. Proses ngoding: satu commit minimal satu buah fungsi baik baru atau perubahan
+2. Proses ngoding: program utama, package, file testing. satu commit minimal satu buah fungsi baik baru, perubahan, atau penghapusan fungsi yang tidak perlu.
 3. Risalah rapat, pertemuan, seminar, webinar, conference dalam file markdown di dalam repo
 4. Panduan, SOP, aturan, resume dalam file markdown dalam repo
 
