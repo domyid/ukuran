@@ -29,3 +29,7 @@ Beberapa task yang tidak bisa dikukur dengan commit maka diinputkan:
 2. Pekerjaan membuat konten
 3. Pekerjaan lapangan
 4. Pekerjaan administratif
+5. Pembuatan dokumen diluar markdown
+6. Pembuatan risalah rapat diluar markdown
+7. Pembuatan panduan diluar markdown
+8. Pertemuan, undangan, pelatihan, seminar diluar markdown
