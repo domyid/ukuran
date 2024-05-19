@@ -4,16 +4,8 @@ Domikado berfungsi untuk melakukan monitoring harian pekerjaan setiap individu y
 Cara memantau pekerjaan dibagi menjadi dua bagian:
 1. Menggunakan webhook push, maka akan terekap semua pesan commit yang muncul.
 2. Menggunakan kepuasan berbasiskan user yang bisa di beri rating.
-3. Sepakati dahulu dalam satu hari, setiap anggota tim bisa menyelesaikan berapa poin? Contoh: Untuk junior entry level: 7-14 poin, untuk senior level:15-30 poin, level dewa:31-60 poin.
+3. Sepakati dahulu dalam satu hari, setiap anggota tim bisa menyelesaikan berapa poin? Contoh: untuk anak magang:3-6 poin, untuk junior entry level: 7-14 poin, untuk senior level:15-30 poin, level dewa:31-60 poin.
 4. Buat dahulu format standar kode unik task, dimana setiap segmen kode memiliki arti.
-
-## Kamus bahasa gaul
-Beberapa istilah yang sering dipake, ga perlu kaget sih kalo baru jadian:
-1. Bingung: tolong detailkan task nya untuk saya, karena saya masih baru cuy belum paham.
-2. Terserah: saya mau mutasi atau resign dah bosen disini mulu, tapi mau dapet gajinya doang.
-3. Sok aja: bodo amat, gw gabut.
-4. Bebas: pekerjaan seberat apapun saya mampu kok.
-5. Bisa aja: ga yakin sih ini bisa di kerjain.
 
 ## Yang bisa di commit untuk di ukur
 1. Proses belajar: membuat tutorial di markdown file di repo, sehingga berkontribusi membuat tutorial untuk yang lainnya
