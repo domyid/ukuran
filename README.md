@@ -15,13 +15,13 @@ Cara memantau pekerjaan dibagi menjadi dua bagian:
 
 ## Standar Pesan Commit
 
-Format: kodeuniktask||nama fungsi serta detail yang dikerjakan 
+Format: kodeuniktask:nama fungsi serta detail yang dikerjakan 
 Dengan ketentuan:
 1. Pada saat scrum meeting, backlog setiap task terdapat kode unik dan poin. 
 2. Dimana poin merupakan target perkiraan banyaknya commit yang akan dilakukan untuk menyelesaikan task tersebut. 
 3. Sehingga jumlah commit adalah, jumlah langkah yang dilakukan untuk menyelesaikan satu buah task
 4. Kode unik task sebaiknya mudah diingat dan berisi info modul dan info lainnya yang informatif
-5. Jika task sudah selesai maka tambahkan tanda pagar plus kodeuniktask pada bagian detail, maka task otomatik done. Contoh: MOD87INT||sudah selesai modul presensi#MOD87INT
+5. Jika task sudah selesai maka tambahkan tanda pagar plus kodeuniktask pada bagian detail, maka task otomatik done. Contoh: MOD87INT:sudah selesai modul presensi#MOD87INT
 
 ## Task non commit
 Beberapa task yang tidak bisa dikukur dengan commit maka diinputkan:
