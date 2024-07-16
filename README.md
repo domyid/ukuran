@@ -1,5 +1,15 @@
 # Parameter pengukuran kinerja sobat domyikado
 
+![image](https://github.com/user-attachments/assets/8ee6661f-ccdb-4967-9ffd-a3252c4796ad)
+
+Sebelum memulai pengerjaan proyek, sepakati dulu hal-hal berikut:
+1. Tentukan hari kerja, pastikan dalam satu tim satu grup wa tentukan hari apa saja di hari kerja untuk mengerjakan project ini.
+2. Dalam satu hari kerja, setiap individu harus mendapatkan 3 poin. Jika kurang dari itu maka akan dikurangi 3 poin
+3. Akan ada rekapitulasi perhari dari setiap individu yang ada di dalam project
+
+
+## Poin sobat domyikado
+
 Domikado berfungsi untuk melakukan monitoring harian pekerjaan setiap individu yang ada dalam tim berbasiskan poin. 
 Cara memantau pekerjaan dibagi menjadi dua bagian:
 1. Menggunakan webhook push, maka akan terekap semua pesan commit yang muncul.
@@ -8,6 +18,7 @@ Cara memantau pekerjaan dibagi menjadi dua bagian:
 4. Buat dahulu format standar kode unik task, dimana setiap segmen kode memiliki arti.
 
 ## Yang bisa di commit untuk di ukur
+
 1. Proses belajar: membuat tutorial di markdown file di repo, sehingga berkontribusi membuat tutorial untuk yang lainnya
 2. Proses ngoding: program utama, package, file testing. satu commit minimal satu buah fungsi baik baru, perubahan, atau penghapusan fungsi yang tidak perlu.
 3. Risalah rapat, pertemuan, seminar, webinar, conference dalam file markdown di dalam repo
