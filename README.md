@@ -1,6 +1,6 @@
 # Parameter pengukuran kinerja sobat domyikado
 
-![image](https://github.com/user-attachments/assets/8ee6661f-ccdb-4967-9ffd-a3252c4796ad)
+![image](https://github.com/user-attachments/assets/e8baaab8-1c64-4228-9623-5677d380737d)
 
 Sebelum memulai pengerjaan proyek, sepakati dulu hal-hal berikut:
 1. Tentukan hari kerja, pastikan dalam satu tim satu grup wa tentukan hari apa saja di hari kerja untuk mengerjakan project ini.
