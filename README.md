@@ -5,7 +5,10 @@
 Sebelum memulai pengerjaan proyek, sepakati dulu hal-hal berikut:
 1. Tentukan hari kerja, pastikan dalam satu tim satu grup wa tentukan hari apa saja di hari kerja untuk mengerjakan project ini.
 2. Dalam satu hari kerja, setiap individu harus mendapatkan 3 poin. Jika kurang dari itu maka akan dikurangi 3 poin
-3. Akan ada rekapitulasi perhari dari setiap individu yang ada di dalam project
+3. Akan ada rekapitulasi perhari dari setiap individu yang ada di dalam project.
+4. Pastikan memasang WebHook dulu sebelum memulai pekerjaan di repository
+   ![image](https://github.com/user-attachments/assets/3bb8b963-65a4-4a45-9513-5fa254ca8bef)
+
 
 
 ## Poin sobat domyikado
