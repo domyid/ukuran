@@ -13,8 +13,8 @@ Sebelum memulai pengerjaan proyek, sepakati dulu hal-hal berikut:
 
 1. Buka do.my.id
 2. Buka tab dan pilih Proyek -> Owner
-3. Add a new project
-   Selanjutnya isi sesuai dengan kebutuhan proyek sobat domyikado, jika sudah klik -> add
+3. Add a new project  
+   Selanjutnya isi sesuai dengan kebutuhan proyek sobat domyikado, jika sudah klik -> add  
    (![alt text](image.png))
 4. Add member lalu masukan nomor whatsapp anda
    ![alt text](image-1.png)
@@ -36,7 +36,7 @@ Selanjutnya
    ![alt text](image-6.png)
 8. Coba commit & Push  
    ![alt text](image-7.png)
-9. Berhasil  
+9. Jika berhasil myka akan mengirim pesan ini  
    ![alt text](image-8.png)
 
 ## Poin sobat domyikado
