@@ -9,7 +9,35 @@ Sebelum memulai pengerjaan proyek, sepakati dulu hal-hal berikut:
 4. Pastikan memasang WebHook dulu sebelum memulai pekerjaan di repository
    ![image](https://github.com/user-attachments/assets/3bb8b963-65a4-4a45-9513-5fa254ca8bef)
 
+## Tutorial Memasang Webhook dari do.my.id
 
+1. Buka do.my.id
+2. Buka tab dan pilih Proyek -> Owner
+3. Add a new project
+   Selanjutnya isi sesuai dengan kebutuhan proyek sobat domyikado, jika sudah klik -> add
+   (![alt text](image.png))
+4. Add member lalu masukan nomor whatsapp anda
+   ![alt text](image-1.png)
+5. Buka tab kembali pilih Proyek -> Member
+   ![alt text](image-2.png)
+   Simpan Payload URL dan Secret
+
+Selanjutnya
+
+1. Buka repository project Anda
+2. Klik tombol settings
+3. Pilih Webhooks
+   ![alt text](image-3.png)
+4. Klik tombol Add webhook
+5. Masukkan URL Webhook yang sudah Anda buat sebelumnya dari do.my.id
+   ![alt text](image-5.png)
+   Biarkan default yang lainnya jika sudah klik tombol Add webhook
+6. Selanjutnya Jika sudah ceklis seperti ini berati sudah sukses.
+   ![alt text](image-6.png)
+7. Coba commit & Push
+   ![alt text](image-7.png)
+8. Berhasil
+   ![alt text](image-8.png)
 
 ## Poin sobat domyikado
 
