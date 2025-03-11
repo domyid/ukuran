@@ -26,17 +26,17 @@ Selanjutnya
 
 1. Buka repository project Anda
 2. Klik tombol settings
-3. Pilih Webhooks
+3. Pilih Webhooks  
    ![alt text](image-3.png)
 4. Klik tombol Add webhook
-5. Masukkan URL Webhook yang sudah Anda buat sebelumnya dari do.my.id
+5. Masukkan URL Webhook yang sudah Anda buat sebelumnya dari do.my.id  
    ![alt text](image-5.png)
    Biarkan default yang lainnya jika sudah klik tombol Add webhook
-6. Selanjutnya Jika sudah ceklis seperti ini berati sudah sukses.
+6. Selanjutnya Jika sudah ceklis seperti ini berati sudah sukses  
    ![alt text](image-6.png)
-7. Coba commit & Push
+8. Coba commit & Push  
    ![alt text](image-7.png)
-8. Berhasil
+9. Berhasil  
    ![alt text](image-8.png)
 
 ## Poin sobat domyikado
